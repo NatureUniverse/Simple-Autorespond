@@ -14,7 +14,7 @@ chat autoresponder bot(GooglePlayStore)(App developer: darktornado)
 
 Code
 -
-☡[[English or another languages]]➤➤➤[[korean]]
+☡This codes made by darktornado
 
 •[[보낸사람]] : 보낸 사람의 이름 인용.
 
