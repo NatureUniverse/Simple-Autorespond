@@ -6,13 +6,7 @@ License
 -
 GNU General Public License 3.0
 
-Notice
--
-This code can use on 
-chat autoresponder bot(GooglePlayStore)(App developer: darktornado)
-(This Bot works only on kakaotalk)
-
-Code
+CodeList
 -
 •[[보낸사람]] : 보낸 사람의 이름 인용.
 
