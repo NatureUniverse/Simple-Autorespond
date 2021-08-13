@@ -6,4 +6,5 @@ License
 
 GNU General Public License 3.0
 
-This code can use on 채팅 자동응답 봇(developer: darktornado)(GooglePlayStore)
+This code can use on 
+chat autoresponder bot(GooglePlayStore)(App developer: darktornado)
