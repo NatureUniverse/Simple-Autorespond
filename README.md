@@ -6,7 +6,7 @@ License
 -
 GNU General Public License 3.0
 
-CodeList
+CodeList(주의할점:한국어로 번역하면 이상해진다.)
 -
 •[[보낸사람]] : 보낸 사람의 이름 인용.
 
