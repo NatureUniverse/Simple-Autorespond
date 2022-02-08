@@ -1,0 +1,19 @@
+2.검색기능
+
+2-1 만들기
+
+예)유튜브
+
+이 말로 시작하면
+!유튜브
+
+이렇게대답
+https://m.youtube.com/results?search_query=[[삭제|[[내용]]|!유튜브]]
+
+2-2응용하기
+
+이 말로 시작하면
+!네이버
+
+이렇게대답
+https://m.search.naver.com/search.naver?_query=[[삭제|[[내용]]|!네이버 ]]&where=m&sm=mtp_hty
